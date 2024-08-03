@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npm install`
 
-To install essential Node modules which are not present in this repository files.
+To install essential Node modules which are not present above in the repository files.
 
 ## Learn More
 
